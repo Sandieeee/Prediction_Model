@@ -85,5 +85,5 @@ def main():
         if st.button('Make Prediction'):
             prediction(X, Y, input_features, mean_value)
 
-if __name__ == "__main__":
+
     main()
